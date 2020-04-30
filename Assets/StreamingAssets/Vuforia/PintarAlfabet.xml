@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarkerO" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerQ" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerZ" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerY" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerX" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerW" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerV" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerU" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerT" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerS" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerR" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerP" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerN" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerM" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerL" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerK" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerJ" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerI" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerH" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerG" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerF" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerE" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerC" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerD" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerB" size="1.000000 1.000000" />
+    <ImageTarget name="MarkerA" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
